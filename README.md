@@ -1,7 +1,5 @@
 # Grillz - Fast Food Ordering Website
 
-![Grillz Banner](./assets/images/banner.png) <!-- Optional: Replace with your actual banner image -->
-
 Grillz is a responsive, red-themed fast-food ordering website built using HTML, CSS, and JavaScript. This project provides an interactive experience for browsing, selecting, and ordering a variety of fast-food items including pizzas, burgers, sodas, and wings. With a dynamic search functionality, animated menu cards, and a full-featured cart system, Grillz is designed to deliver a fun and engaging user experience.
 
 ## Table of Contents
